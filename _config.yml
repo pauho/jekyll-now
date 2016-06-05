@@ -20,9 +20,9 @@ footer-links:
   dribbble:
   email:
   facebook:
-  flickr:pauho
-  github:pauho
-  instagram:pauho
+  flickr: pauho
+  github: pauho
+  instagram: pauho
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:http://pauho.github.io
+url: http://pauho.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
