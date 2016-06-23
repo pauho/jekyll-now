@@ -4,8 +4,6 @@ title: Terminal Post
 ---
 
 
-# Terminal Post
-
 So, my first few posts are kind of on a continuum going from ultra-experimental test posts and will eventually culminate in fully fledged blog posts. We will just have to see how long that takes exactly. 
 This posts experimentation is that I'm trying to write and post it **exclusively** from the Terminal. It's not going *spectacularly* well, as I keep on forgetting Markdown "syntax". Also, my spelling has been better and GNU Nano doesn't seem to have a spellchecker. 
 
